@@ -1,5 +1,5 @@
 mysql:
-    user: jwt_
+    user: jwt
 person:
-    name: yuan_
+    name: yuan
 
